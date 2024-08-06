@@ -2,7 +2,7 @@
   "name": "svelte-server-restart",
   "displayName": "Svelte Server Restart",
   "description": "Restart the Svelte Language server from the status bar",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "publisher": "AKCodeWorks",
   "engines": {
     "vscode": "^1.92.0"

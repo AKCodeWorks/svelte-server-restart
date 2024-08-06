@@ -4,6 +4,8 @@
 
 This extension adds a status bar button to restart the Svelte language server with a single click.
 
+![ButtonExample](image.png)
+
 ## Features
 
 - Adds a button to the status bar to restart the Svelte language server.
